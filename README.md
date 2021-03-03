@@ -8,6 +8,7 @@ project repo: https://github.com/tmax-cloud/scheduled-scaler-operator
 ### Prerequsite
    `kustomize` cli가 설치되지 않은 경우, `kustomize`를 설치합니다.
 
+### Installation
 1. 외부 네트워크 통신이 가능한 환경에서 필요한 이미지를 다운받습니다.
     ```bash
     # 이미지 pull
