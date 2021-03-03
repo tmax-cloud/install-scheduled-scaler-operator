@@ -1,0 +1,1 @@
+# install-scheduled-scaler-operator
